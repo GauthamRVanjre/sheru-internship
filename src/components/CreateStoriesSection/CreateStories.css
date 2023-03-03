@@ -1,0 +1,21 @@
+.create-stories-content {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.card-img-top {
+  color: #000 !important;
+  height: 250px !important;
+  object-fit: cover !important;
+}
+
+.card {
+  margin-bottom: 40px;
+  width: 550px !important;
+}
+
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

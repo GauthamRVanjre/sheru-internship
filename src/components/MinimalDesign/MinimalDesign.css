@@ -1,0 +1,19 @@
+.minimal-design {
+  background-color: #070606;
+  background-image: url("../../assets/minimalDesign.jpg");
+  object-fit: contain;
+  width: 100%;
+  max-height: 100%;
+  opacity: 1;
+  height: 70vh;
+}
+
+.minimal-design-content {
+  margin-top: 150px;
+  color: #f7f7f7;
+}
+
+.content-heading {
+  font-size: 48px;
+  font-weight: 700;
+}

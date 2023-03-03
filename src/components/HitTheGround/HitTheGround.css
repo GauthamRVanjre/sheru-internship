@@ -1,0 +1,28 @@
+.learn-more-btn {
+  background-color: #f5f5f5;
+  border: 1px solid #f5f5f5;
+  border-radius: 5px;
+  color: #000;
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  margin-left: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.hitTheGroundSection {
+  background: rgb(33, 206, 201);
+  background: linear-gradient(
+    90deg,
+    rgba(33, 206, 201, 0.26102941176470584) 0%,
+    rgba(11, 181, 201, 0.5803571428571428) 100%
+  );
+  padding: 50px 0;
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
